@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - Player
+  - Background
+  - Enemies
+  - Hazards
+  - Interactables
+  - Background Effects
+  - Platform
+  - Fall Death
+  - Misc Background
+  - Main Castle Level
+  - Bosses
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2532159545
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 3231742337
+    locked: 0
+  - name: Foreground
+    uniqueID: 366818007
+    locked: 0
+  - name: Foreground 3
+    uniqueID: 2474635751
+    locked: 0
+  - name: Foreground 4
+    uniqueID: 1580359975
+    locked: 0
+  - name: Cavern
+    uniqueID: 2749336761
+    locked: 0
+  - name: Background Prison
+    uniqueID: 2080357861
+    locked: 0
+  - name: Main Castle Level F
+    uniqueID: 3240806173
+    locked: 0
+  - name: Main Castle Level G
+    uniqueID: 409223257
+    locked: 0
+  - name: Main Castle Level E
+    uniqueID: 3311005547
+    locked: 0
+  - name: Main Castle Level
+    uniqueID: 1104708131
+    locked: 0
+  - name: Main Castle Level B
+    uniqueID: 2813724867
+    locked: 0
+  - name: Main Castle Level C
+    uniqueID: 888841181
+    locked: 0
+  - name: Background Prison Effect
+    uniqueID: 1453459339
+    locked: 0
+  - name: Dungeon Misc
+    uniqueID: 88613447
+    locked: 0
+  - name: Prison Main Level
+    uniqueID: 26688821
+    locked: 0
+  - name: Background Effects
+    uniqueID: 2740605719
+    locked: 0
+  - name: Platform
+    uniqueID: 3075542799
+    locked: 0
+  - name: Terrian
+    uniqueID: 2639349609
+    locked: 0
+  - name: Prison Terrian
+    uniqueID: 3213245695
+    locked: 0
+  - name: Castle Hazard
+    uniqueID: 887972091
+    locked: 0
+  - name: Castle Terrain
+    uniqueID: 3787897311
+    locked: 0
+  - name: Main Castle Level D
+    uniqueID: 1906555973
+    locked: 0
+  - name: Misc Background
+    uniqueID: 1139013803
+    locked: 0
+  - name: Hazards
+    uniqueID: 4175060331
+    locked: 0
+  - name: Enemy
+    uniqueID: 1396457049
+    locked: 0
+  - name: Intertactables
+    uniqueID: 2586651091
+    locked: 0
+  - name: Player
+    uniqueID: 2032537941
+    locked: 0
+  - name: Decorative Castle
+    uniqueID: 2451845683
+    locked: 0
+  - name: Secret Passage
+    uniqueID: 778764999
+    locked: 0
+  - name: Main Castle Level H
+    uniqueID: 1141232027
+    locked: 0
+  - name: Boss
+    uniqueID: 1281327323
+    locked: 0
